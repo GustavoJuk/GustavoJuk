@@ -11,7 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="juk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+  <img align="center" alt="juk-St" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <!-- <img align="right" alt="juk-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
   
