@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/GustavoJuk">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoJuk&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJuk&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=GustavoJuk&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJuk&langs_count=7&theme=maroongold"/>
   <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/pin?username=GustavoJuk&repo=SwiftUI_Tutorial&theme=maroongold"/> -->
 </div>
   
