@@ -1,7 +1,8 @@
 ### **Hello, world! 🤖**
 
-- 💻 Estudante na **Apple Developer Academy | UCB**
-- 🖥 Estudo na **Universidade Católica de Brasília** - **Ciência da computação 7/8**
+- Desenvolvedor iOS
+- 💻 Certificado pela **Apple Developer Academy | UCB**
+- 🖥 Formado em **Ciências da computação - Universidade Católica de Brasília**
 - 🌱 Estudando desenvolvimento de aplicações **IOS**
 
 <div>
